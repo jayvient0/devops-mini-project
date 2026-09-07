@@ -18,7 +18,7 @@ An automated CI/CD pipeline that builds a containerized Node.js Express API and 
 
 ```bash
 # Clone repository
-git clone [https://github.com/jayvient0/devops-mini-project.git](https://github.com/jayviento/devops-mini-project.git)
+git clone [https://github.com/jayvient0/devops-mini-project.git](https://github.com/jayvient0/devops-mini-project.git)
 cd devops-mini-project
 
 # Run with Docker
